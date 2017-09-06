@@ -13,3 +13,7 @@
 .pad-right-sm {
     padding-right: 50px;
 }
+
+label {
+    color: #333;
+}
